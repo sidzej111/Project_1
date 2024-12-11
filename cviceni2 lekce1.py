@@ -23,3 +23,5 @@ l_vysledek = l_gal * l_pocet
 print(kg_pocet, "kg je", kg_vysledek, "lb")
 print(km_pocet, "km je", km_vysledek, "mil")
 print(l_pocet, "litru je", l_vysledek, "gal")
+
+#

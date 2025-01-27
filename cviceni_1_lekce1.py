@@ -9,3 +9,4 @@ print("indexování"[-5:])
 # Každé třetí písmeno slova "indexování" (počínaje prvním písmenem "i")
 print("indexování"[::3])
 
+#
